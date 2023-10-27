@@ -1,3 +1,5 @@
+#Car Crashes In Massachusetts
+*By Paul Yarin*
 ![map of massachusetts car crashes in 2021](/final.png)
 # Project Description
 This poster shows all car crashes that happened in 2021 in Massachusetts. Each dot represents a crash, and the color of the dot represents the severity of the crash.
