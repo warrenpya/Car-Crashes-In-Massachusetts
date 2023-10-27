@@ -43,7 +43,7 @@ def get_y_scalar_and_origin(marks):
                  
     #Average ratio of a lat cor to a y point on the graph            
     y_scalar_sum /= len(marks) * (len(marks) - 1)
-    #verage lat cor that corresponds to y = 0 on the graph
+    #Average lat cor that corresponds to y = 0 on the graph
     origin_lat_sum /= len(marks) * (len(marks) - 1)
     return [y_scalar_sum, origin_lat_sum]
 
